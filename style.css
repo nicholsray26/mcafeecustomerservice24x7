@@ -87,7 +87,7 @@ body, html {
 }
 .cta-button {
   padding: 14px 28px;
-  background-color: #ffeb00;
+  background-color: #C01818;
   border-radius: 40px;
   text-decoration: none;
   color: #000;
@@ -98,7 +98,7 @@ body, html {
 }
 
 .cta-button:hover {
-  background-color: #C01818;
+  background-color: #f3d700;
 }
 
 /* Mobile View Adjustments */
