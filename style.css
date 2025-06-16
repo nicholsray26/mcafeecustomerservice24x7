@@ -27,7 +27,7 @@ body, html {
 }
 .logo img {
   display: block;
-  height: 90px;
+  height: 50px;
 }
 .nav-links {
   display: flex;
@@ -115,7 +115,7 @@ body, html {
   }
 
   .logo img {
-    height: 68px;
+    height: 40px;
   }
 
   .burger {
