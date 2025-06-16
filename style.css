@@ -27,7 +27,7 @@ body, html {
 }
 .logo img {
   display: block;
-  height: 50px;
+  height: 30px;
 }
 .nav-links {
   display: flex;
