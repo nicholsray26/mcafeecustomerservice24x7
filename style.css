@@ -83,14 +83,14 @@ body, html {
 .hero-text p {
   font-size: 20px;
   margin-bottom: 30px;
-  color: #ffffff;
+  color: #1e1e1e;
 }
 .cta-button {
   padding: 14px 28px;
   background-color: #C01818;
   border-radius: 40px;
   text-decoration: none;
-  color: #000;
+  color: #ffffff;
   font-weight: bold;
   font-size: 20px;
   transition: background 0.3s ease;
